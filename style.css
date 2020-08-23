@@ -1,0 +1,36 @@
+.container{
+   background-color: rgb(204, 202, 189);
+   width:660px;
+   margin:18% auto;
+   
+}
+
+marquee{font-size: 45px; color: red;}
+body{
+    background-image:url(pic1.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+.login-section{padding: 20px;
+
+}
+
+.login-section img{margin: 0 auto; display:block;width: 200px;
+    
+}
+.login-section h2{text-align: center; color: darkgreen;font-size: 30px;
+    
+
+}
+.form-controlar{width: 97%; height: 20px; padding: 5px;
+
+}
+.button{margin:0 auto ; display: block; background-color:rgb(60, 0, 255);border-color:rgb(233, 218, 197) ;
+    color: honeydew;box-shadow: 1px 2 px 4 px pink;border: none; text-transform: uppercase;
+
+}
+.reset{
+    text-align: right; color: rgb(60, 0, 255);
+}
+
